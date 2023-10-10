@@ -8,6 +8,7 @@
         <meta name="author" content="" />
         <title>@yield('titulo')</title>
         <link href="{{ asset('css/styles.css') }}" rel="stylesheet" />
+        <link rel="icon" type="image/x-icon" href="{{ asset('img/inventory.ico') }}"/>
         <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
     </head>
     <body>

@@ -1,5 +1,9 @@
 @extends('layout.plantilla')
 
+@section('titulo')
+SGI CAJHH
+@endsection
+
 @section('contenido')
 <div class="row">
     <div class="col-md-9">
